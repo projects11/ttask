@@ -44,6 +44,6 @@ async function deleteFiles(){
 }
 
 
-deleteFiles()
+//deleteFiles()
 
 module.exports = deleteFiles
